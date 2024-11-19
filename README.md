@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Sanket</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="Programmer Thomas Illustration" />
-<p align="left"> <img src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media" alt="sanketshinde1" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketshinde1&label=Profile%20views&color=0e75b6&style=flat" alt="sanketshinde1" /> </p>
 
 - 🌱 I’m currently learning **MERN**
 
